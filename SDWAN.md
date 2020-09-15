@@ -2,9 +2,7 @@ Secure SD-WAN
 ==============
 
 ## video test
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="https://youtu.be/No7S-gKHrDU4" type="video/mp4">
-</video>
+ <div class="dnnass-video-section"><div class="dnnass-video-item"><div class="dnnass-video-title">Demo</div><iframe src="https://youtu.be/No7S-gKHrDU" allowfullscreen></iframe></div><div class="dnnass-video-item"><div class="dnnass-video-title">Tutorial</div><iframe src="${resp.video_tutorial}" allowfullscreen></iframe></div></div>
 
 ## video 22
 

@@ -2,10 +2,10 @@ Secure SD-WAN
 ==============
 
 ## video test
- (https://youtu.be/No7S-gKHrDU)
+https://youtu.be/No7S-gKHrDU
 
 ## video 22
-(https://youtu.be/No7S-gKHrDU)
+https://youtu.be/No7S-gKHrDU
                     
 ## Tag
 [stage] - Walk, Run

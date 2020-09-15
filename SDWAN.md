@@ -2,14 +2,10 @@ Secure SD-WAN
 ==============
 
 ## video test
- <div class="dnnass-video-section"><div class="dnnass-video-item"><div class="dnnass-video-title">Demo</div><iframe src="https://youtu.be/No7S-gKHrDU" allowfullscreen></iframe></div><div class="dnnass-video-item"><div class="dnnass-video-title">Tutorial</div><iframe src="${resp.video_tutorial}" allowfullscreen></iframe></div></div>
+ (https://youtu.be/No7S-gKHrDU)
 
 ## video 22
-
-<iframe
-  style="margin-left: 2px; margin-bottom:-5px;"frameborder="0" scrolling="0" width="100px" height="20px"
-  src="https://youtu.be/No7S-gKHrDU" >
-</iframe>
+(https://youtu.be/No7S-gKHrDU)
                     
 ## Tag
 [stage] - Walk, Run

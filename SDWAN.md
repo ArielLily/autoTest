@@ -52,6 +52,9 @@ forPre[WhitePaperVal](http://www.whitePaper.com/)
 
 forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
+## sales
+sale val
+
 ## Related Sandbox
 [Catalyst 9800 Wireless LAN Controller](https://devnetsandbox.cisco.com/RM/Diagram/Index/9900a725-c584-42ae-8d51-3ac87533c5c5?diagramType=Topology)
 
@@ -63,7 +66,4 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
 [Instant, custom splash pages for WiFi access](https://testing-developer.cisco.com/ecosystem/meraki/apps/5a6d16371df81231b1403a81/)
 
-
-## Sales play cagegory
-sd_wan
 

@@ -4,13 +4,15 @@
 
 ## Tag
 ## stage
-Walk\n
+Walk
+
 Fly
 ## scenario
 Monitoring
 
 ## domain
 Data Center
+
 IoT
 
 ## lifecycle
@@ -19,6 +21,7 @@ Day 0
 Day 1
 ## product
 SD-WAN
+
 ACI
 
 ## technologies

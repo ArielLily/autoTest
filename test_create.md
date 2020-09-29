@@ -2,11 +2,6 @@ Lily Test Secure SD-WAN 0929
 ==============
 
 ## Tag
-## stage
-Walk
-
-## scenario
-Monitoring
 
 ## domain
 Data Center
@@ -53,4 +48,4 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
 
 ## Sales Play Category
-SD-WAN new val
+SD-WAN

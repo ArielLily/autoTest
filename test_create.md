@@ -5,7 +5,6 @@ Lily Test Secure SD-WAN 0929
 ## stage
 Walk
 
-Fly
 ## scenario
 Monitoring
 
@@ -54,4 +53,4 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
 
 ## Sales Play Category
-SD-WAN
+SD-WAN new val

@@ -52,4 +52,4 @@ forPre[WhitePaperValnewVal444](http://www.whitePaperNew444metadata.com/)
 
 
 ## Sales Play Category
-SD-WAN For new sync metadata 
+SD-WAN new value
